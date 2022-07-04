@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Aletico Whitepaper
+longtitle:        Aletico Whitepaper
+author:           Eric Butz
+email:            eric@aletico.io
 description: >
-  Build Jekyll site with the GitBook style.
+  Aletico whitepaper
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://aleticoprotocol.github.io'
+baseurl:          '/whitepaper'
 rss:              RSS
 
 toc:
